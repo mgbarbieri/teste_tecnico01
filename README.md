@@ -1,6 +1,7 @@
 Teste técnico para seleção de desenvolvedor de software.
 
 Uma aplicação de linha de comando pode ser encontrada em `bin/`,
+A função que executa o calculo está em `lib/`
 e um exemplo de teste unitário em `test/`.
 
 Para executar a aplicação basta utilizar o comando `dart teste_tecnico01.dart` dentro  de `bin/`.
